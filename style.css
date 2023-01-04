@@ -1,0 +1,11 @@
+#body
+{
+    background-color: black;
+}
+#napis
+{
+    color: aqua;
+    position: absolute;
+    top: central;
+    left:39%;
+}
