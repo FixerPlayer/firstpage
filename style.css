@@ -2,10 +2,9 @@
 {
     background-color: black;
 }
-#napis
+#logo
 {
-    color: aqua;
-    position: absolute;
-    top: central;
-    left:39%;
+    max-width: 100%;
+    height: auto;
+    text-align: center;
 }
